@@ -1,2 +1,3 @@
 this is shared.txt
 made by kim
+edit file
